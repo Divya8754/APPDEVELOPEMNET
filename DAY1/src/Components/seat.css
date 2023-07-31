@@ -1,0 +1,46 @@
+.seat-button {
+    margin-right: 10px;
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor:pointer;
+    width:10px;
+  }
+  .seat-button:hover{
+    background-color: #fdc620;
+  }
+  
+  .row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .pattern-column{
+    width: 50%;
+    margin-left: 5%;
+  
+  }
+  .booknow-comp{
+    background-color:#e2e2e2;
+    padding: 50px;
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .booknow-cont{
+    text-align: center;
+    width: 40%;
+    /* height: 40px; */
+    background-color: #f1f7fe;
+    border-radius: 20px;
+  }
+ 
+  .passenger-form .login-field{
+    margin-top: 20px;
+  }
+  .confirm{
+    margin-top: 30px;
+  }

@@ -1,0 +1,36 @@
+.customer-supp{
+    height: 80vh;
+    position: relative;
+  }
+  .customer-supp .home-container2-search{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+  }
+  .Navbar-search1{
+    border-radius:15px;
+    background-color:#dee3e7;
+    padding:10px;
+    margin-bottom:50px;
+  }
+  .cust{
+    width:10%;
+    color:white;
+    background-color:#edbc40;
+    /* margin-right:1%; */
+  }
+  .custi{
+    width:80%;
+    height:50%;
+    border:none;
+    outline:none;
+    font-size:20px;
+    background-color:#dee3e7;
+  }
+  .custh{
+    font-size:30px;
+    font-family: "Ysabeau Office", sans-serif;
+    font-weight:150;
+    margin-top:40px;
+    margin-left:5px;
+  }
